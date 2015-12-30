@@ -1,7 +1,7 @@
 # styleguide
 
 ## Guides
-- Ruby (ruby.md)
+- Ruby ([Japanese](ruby.md))
 
 ## License
 
