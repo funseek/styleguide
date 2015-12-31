@@ -2,6 +2,7 @@
 
 ## Guides
 - Ruby ([Japanese](ruby.md))
+- Gitコミットメッセージ ([Japanese](git.md))
 - コードを書く上での心得 ([Japanese](important.md))
 
 ## License
