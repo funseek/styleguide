@@ -11,6 +11,7 @@
 * master
 * develop
 * feature
+* issues
 * fix
 
 ## ブランチ名詳細
@@ -32,6 +33,14 @@ feature/ver1.0.1
 ```
 
 時期リリースの開発で使用するブランチ
+
+### issues
+GitHubのissuesに対応するブランチ  
+
+命名規則
+```
+issues/issue番号
+```
 
 ### fix
 命名規則
