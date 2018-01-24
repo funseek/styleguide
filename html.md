@@ -8,11 +8,11 @@
 
 [例]  
 ✕
-```
+```html
 <input type="number"  className="form-control">
 ```
 ◯
-```
+```html
 <input type="number"  className="form-control" />
 ```
 
@@ -20,12 +20,12 @@
 
 [例]  
 ✕
-```
+```html
 <tr>
   <td>hoge</td></tr>
 ```
 ◯
-```
+```html
 <tr>
   <td>hoge</td>
 </tr>
@@ -34,7 +34,7 @@
 ### formタグでレイアウト調整をしない
 [例]
 ✕
-```
+```html
 <form className="form-horizontal">
   <div className="form-group">
     <label  className="col-sm-2 control-label">hoge</label>
@@ -57,7 +57,7 @@
 </form>
 ```
 ◯
-```
+```html
 <div className="horizontal">
   <div className="form-group">
     <label  className="col-sm-2 control-label">hoge</label>
