@@ -4,18 +4,18 @@
 株式会社FunseekでのGitブランチ命名規則について述べる。
 
 ## リリース前
-基本的にはmasterブランチで作業を行う。
+基本的にはmainブランチで作業を行う。
 
 ## リリース後
 ### ブランチ名一覧
-* master
+* main
 * develop
 * feature
 * issues
 * fix
 
 ## ブランチ名詳細
-### master
+### main
 本番環境で動作しているブランチ
 
 ### develop
